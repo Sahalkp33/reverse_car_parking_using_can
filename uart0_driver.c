@@ -1,6 +1,6 @@
 #include<LPC21XX.H>
 #include<stdio.h>
-#include "headerB.h"
+#include "headerA.h"
 
 void uart0_init(unsigned int baud)
 {
